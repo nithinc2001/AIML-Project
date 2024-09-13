@@ -1,0 +1,1 @@
+Title - Project Title - Diabetic Retinopathy Detection Using Deep Learning | Artificial intelligence's machine learning component known as "deep learning" uses networks that can adapt to learn from unstructured or unlabeled unsupervised data. Deep neural networks or deep neural learning are additional names for this approach.
